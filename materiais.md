@@ -12,3 +12,6 @@
 -   [ DUAL BOOT com Windows 10 e Linux - Tutorial](https://www.youtube.com/watch?v=6D6L9Wml1oY)
 
 -   [Máquina Virtual do Linux Ubuntu dentro do Windows - Tutorial](https://www.youtube.com/watch?v=2UTdqGCAq7M)
+
+-   [Curso de Linux - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH)
+
