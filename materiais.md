@@ -15,3 +15,8 @@
 
 -   [Curso de Linux - Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH)
 
+- [Introdução ao Sistema Operacional Linux - Curso Gratuito](https://www.udemy.com/course/linux-ubuntu/)
+
+- [A história do Linux | Qual a melhor distribuição? - Curso Gratuito](https://www.udemy.com/course/a-historia-do-linux-qual-a-melhor-distribuicao/)
+
+- [Curso básico de Linux, focado na distribuição Debian - Curso Gratuito](https://www.udemy.com/course/curso-basico-de-linux-debian-10/)
